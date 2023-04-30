@@ -1,0 +1,32 @@
+<style>
+        body {
+            background-color: beige;
+            font-size: 20px;
+        }
+        h1 {
+            color: darkslategray;
+            text-align: center;
+            font: italic;
+        }
+        h2 {
+            color: darkslategrey;
+            font: italic;
+            text-indent: 30px;
+        }
+        h3 {
+            color: darkslategrey;
+            font: italic;
+            text-indent: 10px;
+        }
+        h4 {
+            color: darkslategrey;
+            font: italic;
+            text-indent: 40px;
+        }
+        img, p {
+            display: inline-block;
+        }
+        p {
+            text-indent: 20px;
+        }
+    </style>
