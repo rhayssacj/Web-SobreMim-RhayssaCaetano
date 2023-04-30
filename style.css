@@ -1,0 +1,26 @@
+<style>
+    body{
+     background-color: beige;
+     font-size: 20px;
+     }
+     h1 {
+        color: darkslategray;
+        text-align: center;
+        font-style: italic;
+     }
+     h2 {
+        color: darkslategrey;
+        text-align: left;
+        font-style: italic;
+     }
+     h3 {
+        color: darkslategrey;
+        font-style: italic;
+        text-indent: 30px;
+        font-size: 24px;
+     }
+     p {
+        text-align: justify;
+        text-indent: 30px;
+     }
+    </style>
